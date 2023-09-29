@@ -11,6 +11,8 @@ Import-Module oh-my-posh
 # 引入 ps-read-line
 Import-Module PSReadLine
 
+# 引入 Terminal-Icons 图标显示
+Import-Module -Name Terminal-Icons
 # 设置 PowerShell 主题
 # Set-PoshPrompt ys
 # Set-PoshPrompt -Theme Paradox
